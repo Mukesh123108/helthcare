@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/helthcare/static/css/main.cb46a097.css",
+    "main.css": "/helthcare/static/css/main.0b0cb086.css",
     "main.js": "/helthcare/static/js/main.e990b482.js",
     "index.html": "/helthcare/index.html",
-    "main.cb46a097.css.map": "/helthcare/static/css/main.cb46a097.css.map",
+    "main.0b0cb086.css.map": "/helthcare/static/css/main.0b0cb086.css.map",
     "main.e990b482.js.map": "/helthcare/static/js/main.e990b482.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb46a097.css",
+    "static/css/main.0b0cb086.css",
     "static/js/main.e990b482.js"
   ]
 }
