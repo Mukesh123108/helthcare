@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/helthcare/static/css/main.073c9b0a.css",
-    "main.js": "/helthcare/static/js/main.24607b52.js",
-    "static/js/787.ab1f6d1d.chunk.js": "/helthcare/static/js/787.ab1f6d1d.chunk.js",
-    "static/media/logo.svg": "/helthcare/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/helthcare/static/css/main.93f3a9c2.css",
+    "main.js": "/helthcare/static/js/main.670645f9.js",
     "index.html": "/helthcare/index.html",
-    "main.073c9b0a.css.map": "/helthcare/static/css/main.073c9b0a.css.map",
-    "main.24607b52.js.map": "/helthcare/static/js/main.24607b52.js.map",
-    "787.ab1f6d1d.chunk.js.map": "/helthcare/static/js/787.ab1f6d1d.chunk.js.map"
+    "main.93f3a9c2.css.map": "/helthcare/static/css/main.93f3a9c2.css.map",
+    "main.670645f9.js.map": "/helthcare/static/js/main.670645f9.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.24607b52.js"
+    "static/css/main.93f3a9c2.css",
+    "static/js/main.670645f9.js"
   ]
 }
